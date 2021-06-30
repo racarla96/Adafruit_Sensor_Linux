@@ -63,7 +63,7 @@ void Adafruit_Sensor::printSensorDetails(void) {
     break;
   }
 
-  cout <<  << endl;
+  cout << endl;
   cout << "Driver Ver:   ";
   cout << sensor.version << endl;
   cout << "Unique ID:    ";
